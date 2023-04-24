@@ -15,5 +15,4 @@ galaxy_info:
         - 8
   galaxy_tags:
     - balancer
-dependencies:
-  - leo9440.conf_base        
+dependencies: []  
